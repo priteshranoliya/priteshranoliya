@@ -34,7 +34,7 @@
 ### 🔭 Currently Working On
 
 ```
-🛠️ Project: [REDACTED]
+🛠️ Project: 🌱 In Secret Dev Garden
 🔐 Status: Confidential – Launching Soon...
 🚀 Goal: Solve a real-world problem with code and creativity
 ```
