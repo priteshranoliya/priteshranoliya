@@ -11,6 +11,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+interactive+web+apps+with+MERN+stack;React+%7C+Node+%7C+MongoDB+%7C+Express;Let’s+build+something+awesome!&center=true&width=1000&font=Fira%20Code&size=22&color=00ff90&pause=1000" alt="Typing Animation" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Code Scrolling" />
+</p>
+
+
+
 ---
 
 ### 👨‍💻 About Me — `>_ Terminal Style`
