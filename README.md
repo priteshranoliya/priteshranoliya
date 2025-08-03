@@ -7,7 +7,6 @@
   🚀 Full Stack Developer | MERN Enthusiast | Tech Tinkerer 💻
 </h3>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+interactive+web+apps+with+MERN+stack;React+%7C+Node+%7C+MongoDB+%7C+Express;Let’s+build+something+awesome!&center=true&width=1000&font=Fira%20Code&size=22&color=00ff90&pause=1000" alt="Typing Animation" />
 </p>
