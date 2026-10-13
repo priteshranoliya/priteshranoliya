@@ -1,19 +1,13 @@
-<p align="center">
-  <img src="assets/banner.jpg" alt="Pritesh Ranoliya, full stack developer: React, Node.js, Express, MongoDB" width="100%" />
-</p>
+## Hi, I'm Pritesh Ranoliya
 
-I build web apps with React, Node.js, Express and MongoDB, and I'm based in India.
+Full stack developer in India. I build web apps with React, Node.js, Express and MongoDB.
 
-**Currently:** deeper into MongoDB aggregations, GSAP animation and backend performance.<br>
+**Currently:** getting deeper into MongoDB aggregations, GSAP animation and backend performance.
 **Open to:** creative web products, animation-rich React work, hackathons and freelance.
 
 ### Projects
 
-**[ThemeFlux](https://github.com/priteshranoliya/themeflux)**: one-click themes for the [cmux](https://cmux.com) terminal on macOS. Eight original illustrated scenes, applied safely with backups and a one-click restore.
-
-<a href="https://github.com/priteshranoliya/themeflux">
-  <img src="assets/themeflux.jpg" alt="Eight ThemeFlux themes: Rooftop Dusk, Deep Orbit, Green Reaction, Pastel Dream, Crimson Moon, Night Vigilante, Neon District, Misty Forest" width="100%" />
-</a>
+- [ThemeFlux](https://github.com/priteshranoliya/themeflux): one-click themes for the cmux terminal on macOS.
 
 ### Contact
 
